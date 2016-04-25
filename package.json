@@ -3,10 +3,14 @@
   "version": "0.0.1",
   "private": true,
   "scripts": {
+    "android": "adb reverse tcp:8081 tcp:8081 && react-native run-android",
     "start": "node node_modules/react-native/local-cli/cli.js start"
   },
   "dependencies": {
     "react": "^0.14.8",
     "react-native": "^0.24.1"
+  },
+  "devDependencies": {
+    "react-native-cli": "^0.2.0"
   }
 }
