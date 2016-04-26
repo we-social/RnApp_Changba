@@ -9,8 +9,9 @@ Project Example keeping up with React-Native ~~Tutorial~~ Exercises
 $ npm run android
 ```
 
-- [x] Movie App https://facebook.github.io/react-native/docs/tutorial.html
-- [x] Sound App https://github.com/zmxv/react-native-sound
+- [x] Movie App [docs/tutorial](https://facebook.github.io/react-native/docs/tutorial.html)
+- [x] Sound App [react-native-sound](https://github.com/zmxv/react-native-sound)
+- [x] Fs & Download [react-native-fs](https://github.com/zmxv/react-native-fs)
 - [ ] ...
 
 
