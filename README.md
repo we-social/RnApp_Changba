@@ -12,6 +12,7 @@ $ npm run android
 - [x] Movie App [docs/tutorial](https://facebook.github.io/react-native/docs/tutorial.html)
 - [x] Sound App [react-native-sound](https://github.com/zmxv/react-native-sound)
 - [x] Fs & Download [react-native-fs](https://github.com/zmxv/react-native-fs)
+- [x] HTML Fetch [docs/network#fetch](https://facebook.github.io/react-native/docs/network.html#fetch)
 - [ ] ...
 
 
