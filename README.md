@@ -13,6 +13,7 @@ $ npm run android
 - [x] Sound App [react-native-sound](https://github.com/zmxv/react-native-sound)
 - [x] Fs & Download [react-native-fs](https://github.com/zmxv/react-native-fs)
 - [x] HTML Fetch [docs/network#fetch](https://facebook.github.io/react-native/docs/network.html#fetch)
+- [x] APK Signing [docs/signed-apk-android](https://facebook.github.io/react-native/docs/signed-apk-android.html)
 - [ ] ...
 
 
