@@ -6,7 +6,7 @@ Project Example keeping up with React-Native ~~Tutorial~~ Exercises
 
 
 ```plain
-$ npm run android
+$ npm run dev
 ```
 
 - [x] Movie App [docs/tutorial](https://facebook.github.io/react-native/docs/tutorial.html)
@@ -22,3 +22,4 @@ $ npm run android
 - [`Make sure you have an Android emulator running or a device connected..`](https://github.com/facebook/react-native/issues/4843)
 - [`Can't find variable: __fbBatchedBidge (line 1 in the generated bundle)..`](https://github.com/facebook/react-native/issues/4881)
 - [`Sound.MAIN_BUNDLE: undefined - can't find file`](https://github.com/zmxv/react-native-sound/issues/27)
+- [`利用 Android Studio 和 Gradle 打包多版本APK`](http://www.open-open.com/lib/view/open1434438066192.html) (thanks to [@JacsonLee](https://github.com/JacsonLee))

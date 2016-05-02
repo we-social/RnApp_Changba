@@ -3,8 +3,11 @@
   "version": "0.0.1",
   "private": true,
   "scripts": {
-    "android": "adb reverse tcp:8081 tcp:8081 && react-native run-android",
-    "start": "node node_modules/react-native/local-cli/cli.js start"
+    "test": "cd android && ./gradlew installRelease",
+    "release": "cd android && ./gradlew assembleRelease",
+    "adb": "adb reverse tcp:8081 tcp:8081",
+    "dev": "npm run adb && react-native run-android",
+    "start": "npm run adb && node node_modules/react-native/local-cli/cli.js start"
   },
   "dependencies": {
     "react": "^0.14.8",

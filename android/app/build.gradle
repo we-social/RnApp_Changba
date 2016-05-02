@@ -109,6 +109,9 @@ android {
     }
     buildTypes {
         release {
+            // http://www.open-open.com/lib/view/open1434438066192.html
+            applicationIdSuffix ".release"
+            
             minifyEnabled enableProguardInReleaseBuilds
             proguardFiles getDefaultProguardFile("proguard-android.txt"), "proguard-rules.pro"
             signingConfig signingConfigs.release
