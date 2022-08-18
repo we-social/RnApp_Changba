@@ -1,8 +1,8 @@
-# AwesomeProject
+# 【毕业设计】微信唱吧 `wxchangba` RN 移动端版
 
-Project Example keeping up with React-Native ~~Tutorial~~ Exercises
+微信唱吧 `wxchangba` Web版：https://changba.wx.fritx.me/ ，源码：https://github.com/fritx/wxchangba
 
-(Currently Android Oriented)
+![](https://github.com/we-social/RnApp_Changba/blob/dev/screenshot.png)
 
 
 ```plain
